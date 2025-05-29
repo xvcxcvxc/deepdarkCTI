@@ -3,23 +3,17 @@
 |https://t.me/+8DxOrHQdrzw1ZjUy|VALID| GODELESS CLOUD Botnet Logs|
 |https://t.me/+fcxhFl9JSRE3YTdi|VALID| HUBHEAD Logs|
 |https://t.me/+lTv-USNAHHIwODE6|ONLINE|.boxed.pw|
-|https://t.me/+NshXlCbUEZkxZDMy|EXPIRED| Luffich Logs - Redline Stealer|
 |https://t.me/+OZheKtZ368YxMDBl|VALID| Goblin's Free Logs |
 |https://t.me/+V_oM-vx0YnSN7nzH|VALID| Log Leaks Group|
-|https://t.me/banklogplug2|OFFLINE|Bank Logs|
 |https://t.me/berserklogs|ONLINE| Redline Stealer |
 |https://t.me/BorwitaFreeLogs|ONLINE| Redline Data Leaks |
 |https://t.me/bradmax_cloud|ONLINE| Redline and Raccoon Data Logs |
 |https://t.me/cbanke_logs|ONLINE| Log Leaks Channel|
-|https://t.me/CloudLogsPrivate|OFFLINE| UnixSeller89 Redline Stealer |
 |https://t.me/cloudlogs|ONLINE| Redline LogZone
 |https://t.me/cloudmika|ONLINE| Redline Logs
 |https://t.me/Creditunionbanksstore|ONLINE|Bank Logs|
 |https://t.me/database_leak|ONLINE|Leaked Database & Fresh Log|
-|https://t.me/eliteband|OFFLINE| Logs |
 |https://t.me/fatecloud|ONLINE| Fatecloud Logs|
-|https://t.me/frilogs|OFFLINE| Frilogs Redline Stealer - Usually logs pillaged from other sites |
-|https://t.me/HUBLOGS|OFFLINE| Redline Malware Logs |
 |https://t.me/joinchat/aLzjwn_93JtkMDA8|VALID| Logs Market|
 |https://t.me/joinchat/Cyv2m5zFE6JmMjVi|VALID| Logs |
 |https://t.me/joinchat/ZST8YodAuzo2NGVk|VALID|Logs Market|
@@ -28,18 +22,14 @@
 |https://t.me/logsgang2|ONLINE|Logs Market|
 |https://t.me/LuxuryLogsCloud|ONLINE| Luxury Logs Redline Stealer |
 |https://t.me/MalwareLogs|ONLINE| Logs |
-|https://t.me/MarkLogsBot|OFFLINE| Logs Market |
 |https://t.me/marvelcloudRB|ONLINE| Marvel Logs|
 |https://t.me/Moon_Log|ONLINE| Moon Cloud - Free Logs |
 |https://t.me/+5IFts3LVJmhmMzZi|ONLINE| Moon Cloud |
 |https://t.me/OneLogs|ONLINE| Redline Logs
-|https://t.me/Privatedata77new|OFFLINE| Logs Market |
 |https://t.me/raincloudlogs|ONLINE|Logs Market|
 |https://t.me/redlogscloud|ONLINE| Redline Leaks |
 |https://t.me/Sl1ddifree|ONLINE|Sl1ddi CLOUD FREE LOGS|
 |https://t.me/snatch_cloud|ONLINE| Redline Malware Logs |
-|https://t.me/Stealers_Logs_Group|OFFLINE| Stealer Logs |
-|https://t.me/WillieCloudFreeLogs|OFFLINE| Willie Cloud Redline Leaks |
 |https://t.me/worldwidelogs|ONLINE| Data Leaks |
 |https://t.me/StarLinkCloud|ONLINE| STARLINK[CLOUD] Logs |
 |https://t.me/ArenaCloudFree|ONLINE| Arena Cloud Free Logs |
@@ -77,7 +67,6 @@
 |https://t.me/BurnCloudLogs|ONLINE|Burn Cloud Logs|
 |https://t.me/mercedesbenzcloud|ONLINE|Arcane Logs|
 |https://t.me/PegasusCloud|ONLINE|Pegasus Cloud|
-|https://t.me/SamuraiCloud|OFFLINE|Samurai Cloud|
 |https://t.me/EuropeCloud|ONLINE|Europe Cloud|
 |https://t.me/free_logs_cloud_ArtHouse|ONLINE|Arthouse Cloud|
 |https://t.me/ganjacloud|ONLINE|Ganja Cloud|
